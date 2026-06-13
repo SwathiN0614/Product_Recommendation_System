@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Product_Recommandation_System{
 
     private static Map<String, Set<String>> userProducts = new HashMap<>();
 
